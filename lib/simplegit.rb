@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 "hello"
-Johnchange
-=======
+Johnchanage
 test
->>>>>>> first commit
+changefbchange1
