@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 "hello"
 Johnchange
-=======
 test
->>>>>>> first commit
+jessfeatureAchange1
